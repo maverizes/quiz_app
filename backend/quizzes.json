@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "title": "General Knowledge",
+        "imagePath": "./uploads/image1.jpg",
+        "answers": [
+            {
+                "answer_id": 1,
+                "answer_title": "The capital of France is Paris",
+                "is_correct": true
+            },
+            {
+                "answer_id": 2,
+                "answer_title": "The capital of France is London",
+                "is_correct": false
+            },
+            {
+                "answer_id": 3,
+                "answer_title": "The capital of France is Berlin",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Mathematics",
+        "imagePath": "./uploads/image2.png",
+        "answers": [
+            {
+                "answer_id": 1,
+                "answer_title": "5 + 3 = 8",
+                "is_correct": true
+            },
+            {
+                "answer_id": 2,
+                "answer_title": "5 + 3 = 9",
+                "is_correct": false
+            },
+            {
+                "answer_id": 3,
+                "answer_title": "5 + 3 = 7",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Science",
+        "imagePath": "./uploads/image1.png",
+        "answers": [
+            {
+                "answer_id": 1,
+                "answer_title": "Water boils at 100 degrees Celsius",
+                "is_correct": true
+            },
+            {
+                "answer_id": 2,
+                "answer_title": "Water boils at 90 degrees Celsius",
+                "is_correct": false
+            },
+            {
+                "answer_id": 3,
+                "answer_title": "Water boils at 110 degrees Celsius",
+                "is_correct": false
+            }
+        ]
+    }
+]

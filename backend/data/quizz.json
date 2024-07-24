@@ -1,0 +1,29 @@
+[
+    {
+        "id": 2,
+        "title": "Bu qaysi fasl?",
+        "image": "0a3d7f8396018173a2769dd00.jpg",
+        "answers": [
+            {
+                "answer_id": 1,
+                "answer_text": "Yoz",
+                "is_correct_answer": true
+            },
+            {
+                "answer_id": 2,
+                "answer_text": "Qish",
+                "is_correct_answer": false
+            },
+            {
+                "answer_id": 3,
+                "answer_text": "Bahor",
+                "is_correct_answer": false
+            },
+            {
+                "answer_id": 4,
+                "answer_text": "Kuz",
+                "is_correct_answer": false
+            }
+        ]
+    }
+]
